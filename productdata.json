@@ -1,0 +1,165 @@
+[
+    {
+      "_id": "668bf7e10e096d61f2c1e867",
+      "product_id": 1,
+      "name": "Lux",
+      "description": "A good fraganance soap",
+      "new_price": 25,
+      "old_price": 56,
+      "product_qty": 56,
+      "category": "Health",
+      "sub_category": "soap",
+      "rating": 4.5,
+      "colors": [
+        "White",
+        "Pink",
+        "Blue"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e868",
+      "product_id": 2,
+      "name": "Apple",
+      "description": "A juicy red apple",
+      "new_price": 2,
+      "old_price": 3,
+      "product_qty": 100,
+      "category": "Food",
+      "sub_category": "Fruits",
+      "rating": 4.7,
+      "colors": [
+        "Red",
+        "Green",
+        "Yellow"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e869",
+      "product_id": 3,
+      "name": "Samsung Galaxy S21",
+      "description": "Latest smartphone from Samsung",
+      "new_price": 999,
+      "old_price": 1299,
+      "product_qty": 20,
+      "category": "Electronics",
+      "sub_category": "Smartphones",
+      "rating": 4.8,
+      "colors": [
+        "Phantom Black",
+        "Phantom Silver",
+        "Phantom Violet"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86a",
+      "product_id": 4,
+      "name": "KitKat",
+      "description": "Delicious chocolate wafers",
+      "new_price": 1,
+      "old_price": 1.5,
+      "product_qty": 200,
+      "category": "Food",
+      "sub_category": "Snacks",
+      "rating": 4.6,
+      "colors": [
+        "Brown",
+        "White"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86b",
+      "product_id": 5,
+      "name": "Dove Shampoo",
+      "description": "Moisturizing shampoo for soft hair",
+      "new_price": 10,
+      "old_price": 15,
+      "product_qty": 40,
+      "category": "Health",
+      "sub_category": "Hair Care",
+      "rating": 4.4,
+      "colors": [
+        "White",
+        "Blue"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86c",
+      "product_id": 6,
+      "name": "Sony WH-1000XM4",
+      "description": "Noise-canceling headphones",
+      "new_price": 349,
+      "old_price": 399,
+      "product_qty": 15,
+      "category": "Electronics",
+      "sub_category": "Headphones",
+      "rating": 4.9,
+      "colors": [
+        "Black",
+        "Silver"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86d",
+      "product_id": 7,
+      "name": "Lays Chips",
+      "description": "Crunchy potato chips",
+      "new_price": 2,
+      "old_price": 3,
+      "product_qty": 150,
+      "category": "Food",
+      "sub_category": "Snacks",
+      "rating": 4.3,
+      "colors": [
+        "Yellow",
+        "Green"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86e",
+      "product_id": 8,
+      "name": "Colgate Toothpaste",
+      "description": "Complete oral care toothpaste",
+      "new_price": 3,
+      "old_price": 4,
+      "product_qty": 60,
+      "category": "Health",
+      "sub_category": "Oral Care",
+      "rating": 4.7,
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e86f",
+      "product_id": 9,
+      "name": "LG OLED CX Series",
+      "description": "4K OLED Smart TV",
+      "new_price": 1499,
+      "old_price": 1999,
+      "product_qty": 10,
+      "category": "Electronics",
+      "sub_category": "Televisions",
+      "rating": 4.8,
+      "colors": [
+        "Black"
+      ]
+    },
+    {
+      "_id": "668bf7e10e096d61f2c1e870",
+      "product_id": 10,
+      "name": "Banana",
+      "description": "A ripe and sweet banana",
+      "new_price": 0.5,
+      "old_price": 0.7,
+      "product_qty": 150,
+      "category": "Food",
+      "sub_category": "Fruits",
+      "rating": 4.6,
+      "colors": [
+        "Yellow",
+        "Green"
+      ]
+    }
+  ]
